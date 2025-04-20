@@ -1,27 +1,5 @@
 # 🌌 Nicolle Ida
 
-### 👩‍🚀 Contato
-<p align="left">
-    <a href="mailto:nicolleidamuller@gmail.com">
-        <img
-            alt="gmsil"
-            src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"
-        />
-    </a>
-    <a href="https://www.instagram.com/nicollemidaa?igsh=MWc2Ynh2YXY4ZzZzeA==">
-        <img
-            alt="instagram"
-            src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"
-        />
-    </a>
-    <a href="www.linkedin.com/in/nicolle-ida-72a002267">
-        <img
-            alt="linkedin"
-            src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"
-        />
-    </a>
-</p>
-
 ---
 
 ### ☄️ Linguagens e Tecnologias
@@ -87,7 +65,7 @@
     alt="GitHub Status"
     height="200" 
     style="padding-right: 10px;" 
-    src="https://github-readme-stats.vercel.app/api?username=NicolleIDaM&show_icons=true&theme=tokyonight&include_all_commits-true&locale=pt-br" 
+    src="https://github-readme-stats.vercel.app/api?username=NicolleIdaM&show_icons=true&theme=tokyonight&include_all_commits-true&locale=pt-br" 
 />
 
 <img 
@@ -97,3 +75,32 @@
     style="padding-right: 10px;" 
     src="https://github-readme-stats.vercel.app/api/top-langs/?username=NicolleIdaM&theme=tokyonight&custom_title=Tecnologias&langs_count=9" 
 />
+
+<br></br>
+<br></br>
+<br></br>
+<br></br>
+
+---
+
+### 👩‍🚀 Contato
+<p align="left">
+    <a href="mailto:nicolleidamuller@gmail.com">
+        <img
+            alt="gmsil"
+            src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"
+        />
+    </a>
+    <a href="https://www.instagram.com/nicollemidaa?igsh=MWc2Ynh2YXY4ZzZzeA==">
+        <img
+            alt="instagram"
+            src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"
+        />
+    </a>
+    <a href="www.linkedin.com/in/nicolle-ida-72a002267">
+        <img
+            alt="linkedin"
+            src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"
+        />
+    </a>
+</p>
