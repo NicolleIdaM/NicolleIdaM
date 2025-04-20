@@ -1,7 +1,5 @@
 # 🌌 Nicolle Ida
 
----
-
 ### ☄️ Linguagens e Tecnologias
 
 <img 
