@@ -80,7 +80,7 @@
 
 ---
 
-### ☄️ Estatísticas
+### 🔭 Estatísticas
 
 <img 
     align="left"
