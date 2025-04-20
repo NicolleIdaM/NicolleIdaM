@@ -1,5 +1,6 @@
 # 🌌 Nicolle Ida
 
+### 👩‍🚀 Contato
 <p align="left">
     <a href="mailto:nicolleidamuller@gmail.com">
         <img
@@ -76,6 +77,8 @@
 
 <br></br>
 <br></br>
+
+---
 
 ### ☄️ Estatísticas
 
