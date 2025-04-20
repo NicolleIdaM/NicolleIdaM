@@ -90,7 +90,7 @@
 <img 
     align="left"
     alt="GitHub Status"
-    height="200" 
+    height="180" 
     style="padding-right: 10px;" 
     src="https://github-readme-stats.vercel.app/api/top-langs/?username=NicolleIdaM&theme=tokyonight&custom_title=Tecnologias&langs_count=9" 
 />
