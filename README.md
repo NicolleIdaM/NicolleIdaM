@@ -1,110 +1,47 @@
-# 🌌 Nicolle Ida
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=110&color=9267F7FF"/>
 
-### ☄️ Linguagens e Tecnologias
+<div align="center">
+    <img src="https://readme-typing-svg.demolab.com?font=Pixelify+Sans&size=32&duration=3000&pause=500&color=9267F7&center=true&vCenter=true&multiline=true&width=900&height=100&lines=Wlecome+to+my+GitHub!;I'm+Nicolle+Ida"/>
+</div>
 
-<img 
-    align="left" 
-    alt="HTML"
-    title="HTML" 
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="CSS" 
-    title="CSS"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="C++" 
-    title="C++"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="JavaScript" 
-    title="JavaScript"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="Git" 
-    title="Git"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="Python" 
-    title="Python"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" 
-/>
+<br>
 
-<br></br>
-<br></br>
+<div align="center">
+    
+| <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=NicolleIdaM&theme=tokyonight" /> | <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=NicolleIdaM&theme=tokyonight&utcOffset=-3"/> | <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=NicolleIdaM&theme=tokyonight"/> |
+| :-: | :-: | :-: |
 
----
+| <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=NicolleIdaM&theme=tokyonight" />|
+| :-: |
 
-### 🔭 Estatísticas
+</div>
 
-<img 
-    align="left"
-    alt="GitHub Status"
-    height="200" 
-    style="padding-right: 10px;" 
-    src="[https://github-readme-stats.vercel.app/api?NicolleIdaM=anuraghazra&show_icons=true&theme=radical](https://github-readme-stats.vercel.app/api?NicolleIdaM=anuraghazra&show_icons=true&theme=tokyonight)" 
-/>
+<div align="center" style="display: inline_block"><br>
+    <img width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/CPP.svg">
+    <img width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/JavaScript.svg">
+    <img width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/HTML.svg">
+    <img width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/CSS.svg">
+    <img width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Arduino.svg">
+    <img width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Git.svg">
+    <img width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Github-Dark.svg">
+    <img width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Python-Dark.svg">
+    <img width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Java-Dark.svg">
+    <img width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Ubuntu-Dark.svg">
+    <img width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Windows-Dark.svg">
+    <img width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/VSCode-Dark.svg">
+</div>
 
-<img 
-    align="left"
-    alt="GitHub Status"
-    height="180" 
-    style="padding-right: 10px;" 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=NicolleIdaM&theme=tokyonight&custom_title=Tecnologias&langs_count=9" 
-/>
-
-<br></br>
-<br></br>
-<br></br>
-<br></br>
-
----
-
-### 👩‍🚀 Contato
-<p align="left">
-    <a href="mailto:nicolleidamuller@gmail.com">
-        <img
-            alt="gmsil"
-            src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"
-        />
-    </a>
-    <a href="https://www.instagram.com/nicollemidaa?igsh=MWc2Ynh2YXY4ZzZzeA==">
-        <img
-            alt="instagram"
-            src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"
-        />
-    </a>
-    <a href="www.linkedin.com/in/nicolle-ida-72a002267">
-        <img
-            alt="linkedin"
-            src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"
-        />
-    </a>
-</p>
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Pixelify+Sans&size=32&duration=3000&pause=500&color=9267F7&center=true&vCenter=true&multiline=true&repeat=false&width=900&lines=Contect+me%3A"/>
+  
+  [![Static Badge](https://img.shields.io/badge/gmail-1C1C1C?style=flat-square&logo=gmail&logoColor=1C1C1C&labelColor=9267F7)](mailto:nicolleidamuller@gmail.com)
+  [![Static Badge](https://img.shields.io/badge/linkedin-1C1C1C?style=flat-square&logo=linkedin&logoColor=1C1C1C&labelColor=9267F7)](https://www.linkedin.com/in/nicolle-ida-72a002267/)
+</div>
 
 <picture align="center">
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/NicolleIdaM/NicolleIdaM/output/github-contribution-grid-snake-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/NicolleIdaM/NicolleIdaM/output/github-contribution-grid-snake-dark.svg">
-  <img align="center" alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/NicolleIdaM/NicolleIdaM/output/github-contribution-grid-snake.svg">
+  <img width="100%" alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/NicolleIdaM/NicolleIdaM/output/github-contribution-grid-snake.svg">
 </picture>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=110&color=9267F7FF&section=footer"/>
